@@ -1,0 +1,14 @@
+D:\Oop\Class_And_Object\Class_And_Object\bin\Debug\net6.0\Class_And_Object.exe
+D:\Oop\Class_And_Object\Class_And_Object\bin\Debug\net6.0\Class_And_Object.deps.json
+D:\Oop\Class_And_Object\Class_And_Object\bin\Debug\net6.0\Class_And_Object.runtimeconfig.json
+D:\Oop\Class_And_Object\Class_And_Object\bin\Debug\net6.0\Class_And_Object.dll
+D:\Oop\Class_And_Object\Class_And_Object\bin\Debug\net6.0\Class_And_Object.pdb
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.AssemblyInfoInputs.cache
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.AssemblyInfo.cs
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.csproj.CoreCompileInputs.cache
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.dll
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\refint\Class_And_Object.dll
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.pdb
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\Class_And_Object.genruntimeconfig.cache
+D:\Oop\Class_And_Object\Class_And_Object\obj\Debug\net6.0\ref\Class_And_Object.dll

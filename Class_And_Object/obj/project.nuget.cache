@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCRCi4ydLGpuA0E4/d2E+GW5ogT3QqPtKm4DFG7EtzsktK6lR29n9zXLkM+caopjlanmPrxyNHizG4Cc8/gohQ==",
+  "success": true,
+  "projectFilePath": "D:\\Oop\\Class_And_Object\\Class_And_Object\\Class_And_Object.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rokibul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Rokibul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Rokibul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Rokibul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
